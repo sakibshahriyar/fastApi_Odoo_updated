@@ -20,8 +20,8 @@ This project is a FastAPI application that integrates with Odoo via XML-RPC to m
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo_url>
-   cd fastapi_odoo_project
+   git clone [(https://github.com/sakibshahriyar/fastApi_Odoo_updated.git)]
+   cd fastapi_Odoo
    ```
 
 2. **Create and activate a virtual environment:**
