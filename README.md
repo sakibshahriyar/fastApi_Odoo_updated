@@ -38,7 +38,7 @@ This project is a FastAPI application that integrates with Odoo via XML-RPC to m
 ## Project Structure
 
 ```
-fastapi_odoo_project/
+fastapi_odoo/
 │
 ├── app/
 │   ├── __init__.py
