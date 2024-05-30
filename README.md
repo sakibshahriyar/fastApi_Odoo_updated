@@ -1,4 +1,3 @@
-Sure, here's the updated `README.md` with the author's name included:
 
 ```markdown
 # FastAPI Odoo Project
