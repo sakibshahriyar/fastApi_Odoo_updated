@@ -178,5 +178,3 @@ The API documentation is automatically generated and can be accessed at:
 - **Name:** Sakib Shahriyar
 - **Email:** sakibshahriyar51@gmail.com
 ```
-
-This `README.md` includes the author's name and email at the end, along with all the necessary information to set up, configure, and run your FastAPI project.
